@@ -1,0 +1,1117 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2021 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+  "etag": "239d43cfed8bdb5d98ba774e666b307f91651dff",
+  "data": {
+    "offset": 0,
+    "limit": 5,
+    "total": 5,
+    "count": 5,
+    "results": [
+      {
+        "id": 1010353,
+        "name": "Vermin (Edward Whelan)",
+        "description": "Edward Whelan was found roaming the streets of New York by Baron Helmut Zemo, who subjected Whelan to Zemo's genetic experiments, which granted him superhuman strength, but, in the process of the mutation, he manifested a rat-like physical appearance, and was called Vermin.",
+        "modified": "2013-11-20T17:27:14-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/528d3638185cb",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010353",
+        "comics": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010353/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6809",
+              "name": "The Amazing Spider-Man (1963) #394"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/35880",
+              "name": "Amazing Spider-Man (1999) #645 (SPIDEY VS. VARIANT)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7653",
+              "name": "Captain America (1968) #272"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38442",
+              "name": "Fear Itself: Spider-Man (2011) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/38443",
+              "name": "Fear Itself: Spider-Man (2011) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14629",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #178"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14630",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #179"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14634",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #182"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14647",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #194"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14649",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976) #196"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6697",
+              "name": "The Amazing Spider-Man (1963) #293"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6698",
+              "name": "The Amazing Spider-Man (1963) #294"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6820",
+              "name": "The Amazing Spider-Man (1963) #403"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14115",
+              "name": "Wolverine (1988) #170"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/14118",
+              "name": "Wolverine (1988) #173"
+            }
+          ],
+          "returned": 15
+        },
+        "series": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010353/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+              "name": "Captain America (1968 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/13854",
+              "name": "Fear Itself: Spider-Man (2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+              "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+              "name": "The Amazing Spider-Man (1963 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2262",
+              "name": "Wolverine (1988 - 2003)"
+            }
+          ],
+          "returned": 6
+        },
+        "stories": {
+          "available": 19,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010353/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/14242",
+              "name": "Amazing Spider-Man (1963) #394",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17806",
+              "name": "Mean Streets",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28722",
+              "name": "Stay Alive Part 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28729",
+              "name": "The Logan Files Part 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29703",
+              "name": "Cover #29703",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29704",
+              "name": "Up From the Depths",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29705",
+              "name": "Cover #29705",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29706",
+              "name": "Wounds",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29713",
+              "name": "The Child Within, Part 5 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29751",
+              "name": "The Death of Vermin, Part 1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/29757",
+              "name": "The Death of Vermin, Conclusion",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66230",
+              "name": "Amazing Spider-Man (1963) #293",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66231",
+              "name": "Amazing Spider-Man (1963) #294",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66266",
+              "name": "Amazing Spider-Man (1963) #403",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/89805",
+              "name": "Spider-Man: Fear Itself (2011) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90185",
+              "name": "Fear Itself: Spider-Man (2011) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/90518",
+              "name": "Spider-Man: Fear Itself #2",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/92602",
+              "name": "interior",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94765",
+              "name": "Amazing Spider-Man (1999) #645, SPIDEY VS. VARIANT",
+              "type": "cover"
+            }
+          ],
+          "returned": 19
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010353/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+              "name": "Fear Itself"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+              "name": "Kraven's Last Hunt"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010353/vermin_edward_whelan?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Vermin_(Edward_Whelan)?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1010353/vermin_edward_whelan?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          }
+        ]
+      },
+      {
+        "id": 1009694,
+        "name": "Vertigo (Savage Land Mutate)",
+        "description": "Vertigo was a native of the Savage Land and mutated by the mutant known as Magneto, granting her the power to alter the perceptions of others.",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009694",
+        "comics": {
+          "available": 28,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009694/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19782",
+              "name": "Marvel Fanfare (1982) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19793",
+              "name": "Marvel Fanfare (1982) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19804",
+              "name": "Marvel Fanfare (1982) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/19815",
+              "name": "Marvel Fanfare (1982) #4"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1720",
+              "name": "New Avengers (2004) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1829",
+              "name": "New Avengers (2004) #6"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3345",
+              "name": "New Avengers Vol. 1: Breakout (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11701",
+              "name": "Thor (1966) #373"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11702",
+              "name": "Thor (1966) #374"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16223",
+              "name": "Thor Visionaries: Walter Simonson Vol. 4 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13751",
+              "name": "Uncanny X-Men (1963) #210"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13752",
+              "name": "Uncanny X-Men (1963) #211"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13754",
+              "name": "Uncanny X-Men (1963) #213"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13762",
+              "name": "Uncanny X-Men (1963) #221"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13763",
+              "name": "Uncanny X-Men (1963) #222"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13781",
+              "name": "Uncanny X-Men (1963) #240"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13782",
+              "name": "Uncanny X-Men (1963) #241"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/13891",
+              "name": "Uncanny X-Men (1963) #350"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1863",
+              "name": "Uncanny X-Men (1963) #458"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2299",
+              "name": "Uncanny X-Men - The New Age Vol. 3: On Ice (Trade Paperback)"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009694/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3719",
+              "name": "Marvel Fanfare (1982 - 1992)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+              "name": "New Avengers (2004 - 2010)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1260",
+              "name": "New Avengers Vol. 1: Breakout (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2083",
+              "name": "Thor (1966 - 1996)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2716",
+              "name": "Thor Visionaries: Walter Simonson Vol. 4 (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+              "name": "Uncanny X-Men (1963 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1399",
+              "name": "Uncanny X-Men - The New Age Vol. 3: On Ice (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2098",
+              "name": "X-Factor (1986 - 1998)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/3643",
+              "name": "X-Man (1995 - 2000)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/970",
+              "name": "X-Men and Power Pack (2005 - 2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1634",
+              "name": "X-Men and Power Pack: The Power of X (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/92",
+              "name": "X-Men: Mutant Massacre (1999)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/343",
+              "name": "X-MEN: OLD SOLDIERS TPB (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/144",
+              "name": "X-Treme X-Men: Savage Land (1999)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2107",
+              "name": "X-Treme X-Men: Savage Land (2001 - 2002)"
+            }
+          ],
+          "returned": 15
+        },
+        "stories": {
+          "available": 25,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009694/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/741",
+              "name": "4 of 5 - World's End",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3445",
+              "name": "5 of 6 - Breakout!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3455",
+              "name": "6 of 6 - Breakout!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/5469",
+              "name": "X-Men and Power Pack (2005) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/5470",
+              "name": "4 of 4 - 4XLS",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17046",
+              "name": "The Gift of Death",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/17048",
+              "name": "Fires of the Night",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/22086",
+              "name": "Fallen Angel!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26048",
+              "name": "False Haven !",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27930",
+              "name": "The Morning After",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27932",
+              "name": "Massacre",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27936",
+              "name": "Psylocke",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27952",
+              "name": "Death By Drowning",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27954",
+              "name": "Heartbreak",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27989",
+              "name": "Uncanny X-Men (1963) #240",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27990",
+              "name": "Inferno, Part the First: Strike the Match",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/27992",
+              "name": "Inferno, Part the Second: Fan the Flame",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/28228",
+              "name": "Trial & Errors",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42094",
+              "name": "Fast Descent Into Hell!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/42158",
+              "name": "\"To Sacrifice My Soul...\"",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009694/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+              "name": "Inferno"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+              "name": "Mutant Massacre"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+              "name": "Onslaught"
+            }
+          ],
+          "returned": 3
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/2483/vertigo?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Vertigo_(Savage_Land_Mutate)?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1009694/vertigo_savage_land_mutate?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          }
+        ]
+      },
+      {
+        "id": 1011066,
+        "name": "Victor Mancha",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/10/4c0030f13bcaf",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011066",
+        "comics": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011066/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/40252",
+              "name": "Avengers Academy (2010) #28"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+              "name": "Runaways (2008) #10"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4058",
+              "name": "Runaways (2005) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4429",
+              "name": "Runaways (2005) #18"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5422",
+              "name": "Runaways (2005) #22"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/66858",
+              "name": "Runaways by Rainbow Rowell Vol. 1: Find Your Way Home (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/66859",
+              "name": "Runaways Vol. 10: Rock Zombies (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6189",
+              "name": "Runaways Vol. 7: Live Fast (Digest)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/66321",
+              "name": "Runaways Vol. 9: Dead Wrong (Trade Paperback)"
+            }
+          ],
+          "returned": 9
+        },
+        "series": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011066/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+              "name": "Avengers Academy (2010 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/843",
+              "name": "Runaways (2005 - 2008)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+              "name": "Runaways (2008 - 2009)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/25712",
+              "name": "Runaways by Rainbow Rowell Vol. 1: Find Your Way Home (2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/24187",
+              "name": "Runaways Vol. 10: Rock Zombies (2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1903",
+              "name": "Runaways Vol. 7: Live Fast (2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/24030",
+              "name": "Runaways Vol. 9: Dead Wrong (2018)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011066/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4377",
+              "name": "2 of 4 - Return of the Pride",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4383",
+              "name": "5 of 5 - Parental Guidance",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/4391",
+              "name": "1 of 3 - Live Fast",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/53571",
+              "name": "Interior #53571",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/91316",
+              "name": "AVENGERS ACADEMY (2010) #28",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143785",
+              "name": "cover from RUNAWAYS VOL. 9: DEAD WRONG TPB (2018) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/144871",
+              "name": "cover from RUNAWAYS BY RAINBOW ROWELL VOL. 1: FIND YOUR WAY HOME TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/144873",
+              "name": "cover from RUNAWAYS VOL. 10: ROCK ZOMBIES TPB (2018) #10",
+              "type": "cover"
+            }
+          ],
+          "returned": 8
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011066/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/2869/victor_mancha?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Mancha%2C_Victor?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1011066/victor_mancha?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          }
+        ]
+      },
+      {
+        "id": 1010324,
+        "name": "Victor Von Doom",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010324",
+        "comics": {
+          "available": 39,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010324/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61379",
+              "name": "Avengers (2016) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61380",
+              "name": "Avengers (2016) #8"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/359",
+              "name": "Captain America (2002) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/280",
+              "name": "Captain America (2002) #20"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8540",
+              "name": "Doom (2000) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8541",
+              "name": "Doom (2000) #2"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/8542",
+              "name": "Doom (2000) #3"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/48626",
+              "name": "Fantastic Four (2012) #15"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/15551",
+              "name": "Fantastic Four (1998) #31"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12855",
+              "name": "Fantastic Four (1998) #501"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/12856",
+              "name": "Fantastic Four (1998) #502"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/283",
+              "name": "Fantastic Four (1998) #507"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/29601",
+              "name": "Fantastic Four (1998) #581"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1299",
+              "name": "Fantastic Four Vol. 1 (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1699",
+              "name": "Fantastic Four Vol. 2 (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/84081",
+              "name": "Heroes Reborn: Ashema (2000) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/84082",
+              "name": "Heroes Reborn: Doom (2000) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/84084",
+              "name": "Heroes Reborn: Masters of Evil (2000) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61553",
+              "name": "Infamous Iron Man (2016) #7"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61555",
+              "name": "Infamous Iron Man (2016) #9"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 22,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010324/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22547",
+              "name": "Avengers (2016 - 2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/485",
+              "name": "Captain America (2002 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2007",
+              "name": "Doom (2000)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/421",
+              "name": "Fantastic Four (1998 - 2012)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/16557",
+              "name": "Fantastic Four (2012 - 2014)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1265",
+              "name": "Fantastic Four Vol. 1 (2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1266",
+              "name": "Fantastic Four Vol. 2 (2005)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/29621",
+              "name": "Heroes Reborn: Ashema (2000)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/29622",
+              "name": "Heroes Reborn: Doom (2000)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/29624",
+              "name": "Heroes Reborn: Masters of Evil (2000)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22596",
+              "name": "Infamous Iron Man (2016 - 2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22787",
+              "name": "INFAMOUS IRON MAN VOL. 1: INFAMOUS TPB (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22788",
+              "name": "INFAMOUS IRON MAN VOL. 2: THE ABSOLUTION OF DOOM TPB (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22928",
+              "name": "Invincible Iron Man (2016 - 2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22425",
+              "name": "Invincible Iron Man by Brian Michael Bendis (2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22181",
+              "name": "Invincible Iron Man Vol. 3: Civil War II (2017)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23771",
+              "name": "Marvel 2-in-One (2017 - Present)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/24312",
+              "name": "Marvel 2-In-One Annual (2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23101",
+              "name": "Peter Parker: The Spectacular Spider-Man (2017 - 2018)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/18472",
+              "name": "She-Hulk (2014 - 2015)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 45,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010324/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/798",
+              "name": "Fantastic Four (1998) #507",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/799",
+              "name": "Interior #799",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1500",
+              "name": "Interior #1500",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/3193",
+              "name": "Interior #3193",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25639",
+              "name": "Universe X (2000) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/25640",
+              "name": "Interior #25640",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26088",
+              "name": "interior to FF #501",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/26089",
+              "name": "interior to FF #502",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/31722",
+              "name": "Fantastic Four (1998) #31",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/31723",
+              "name": "Doomsday!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/59804",
+              "name": "X-FACTOR (2005) #48",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/64350",
+              "name": "Fantastic Four (1998) #581",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/64351",
+              "name": "Interior #64351",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65402",
+              "name": "Captain America (2002) #20",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65455",
+              "name": "Captain America (2002) #19",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66441",
+              "name": "Doom 1 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66442",
+              "name": "Doom 2 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/66443",
+              "name": "Doom 3 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67196",
+              "name": "Fantastic Four (1998) #501",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67197",
+              "name": "Fantastic Four (1998) #502",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010324/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/2792/victor_von_doom?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1010324/victor_von_doom?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          }
+        ]
+      },
+      {
+        "id": 1011261,
+        "name": "Vin Gonzales",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011261",
+        "comics": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011261/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21502",
+              "name": "Amazing Spider-Man (1999) #564"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/21504",
+              "name": "Amazing Spider-Man (1999) #566"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/30322",
+              "name": "Amazing Spider-Man (1999) #647"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/37071",
+              "name": "Amazing Spider-Man (1999) #647 (MCNIVEN VARIANT)"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011261/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011261/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47410",
+              "name": "Rashomon",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/47414",
+              "name": "2 of 3 KRAVEN/MISTAKEN IDENTITY",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/69470",
+              "name": "Amazing Spider-Man (1999) #647",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94768",
+              "name": "Amazing Spider-Man (1999) #647, MCNIVEN VARIANT",
+              "type": "cover"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011261/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/characters/2899/vin_gonzales?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Gonzales,_Vin?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://marvel.com/comics/characters/1011261/vin_gonzales?utm_campaign=apiRef&utm_source=5d04d11a2b5d49b6aa05a49998b5f083"
+          }
+        ]
+      }
+    ]
+  }
+}

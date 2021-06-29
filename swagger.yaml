@@ -1,0 +1,119 @@
+consumes:
+- application/json
+definitions:
+  Character:
+    description: |-
+      A Character is an actor in marvel universe
+      It is used to describe the actor in the marvel universe
+    properties:
+      description:
+        type: string
+        x-go-name: Description
+      id:
+        format: int64
+        type: integer
+        x-go-name: ID
+      name:
+        type: string
+        x-go-name: Name
+    type: object
+    x-go-package: xendit-technical-assessment/pkg/domain
+  CharacterDataContainer:
+    properties:
+      count:
+        format: int64
+        type: integer
+        x-go-name: Count
+      limit:
+        format: int64
+        type: integer
+        x-go-name: Limit
+      offset:
+        format: int64
+        type: integer
+        x-go-name: Offset
+      results:
+        items:
+          $ref: '#/definitions/Character'
+        type: array
+        x-go-name: Results
+      total:
+        format: int64
+        type: integer
+        x-go-name: Total
+    type: object
+    x-go-package: xendit-technical-assessment/pkg/domain
+  CharacterDataWrapper:
+    properties:
+      code:
+        type: object
+        x-go-name: Code
+      copyright:
+        type: string
+        x-go-name: Copyright
+      data:
+        $ref: '#/definitions/CharacterDataContainer'
+      message:
+        type: string
+        x-go-name: Message
+      status:
+        type: string
+        x-go-name: Status
+    type: object
+    x-go-package: xendit-technical-assessment/pkg/domain
+host: localhost:8080
+info:
+  contact:
+    email: dunglp@outlook.com
+    name: Dzung Le
+  description: Package xendit_technical_assessment
+  license:
+    name: MIT
+    url: http://opensource.org/licenses/MIT
+  version: 0.0.1
+paths:
+  /characters:
+    get:
+      description: Get Character IDs
+      operationId: getCharacterIDs
+      responses:
+        default:
+          $ref: '#/responses/response'
+      tags:
+      - characters
+  /characters/{characterId}:
+    get:
+      description: Get Character Details
+      operationId: getCharacterByID
+      parameters:
+      - description: The ID of the character
+        format: int64
+        in: path
+        name: characterId
+        required: true
+        type: integer
+        x-go-name: CharacterID
+      responses:
+        default:
+          $ref: '#/responses/response'
+      tags:
+      - characters
+produces:
+- application/json
+responses:
+  response:
+    description: ""
+    headers:
+      code:
+        format: int64
+        type: integer
+      data: {}
+      message:
+        type: string
+      status:
+        type: string
+    schema:
+      type: object
+schemes:
+- http
+swagger: "2.0"
