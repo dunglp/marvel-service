@@ -21,10 +21,28 @@ Technical Assessment
 -   **http://localhost:8080/characters :**
     -   Get all Marvel character IDs 
     -   Caching strategies : 
+        - 2 strategies were considered
         - Strategy 1 :
-            - 
-        - Strategy 2 : 
-            - 
+          - look for cache 
+            - if not found, get all IDs from Marvel, cache all IDs, return
+            - if found :
+                - get 1 ID from Marvel, results will contain Total IDs
+                - compare Marvel.Total and Cache.Total :
+                    - if equal, return IDs from Cache
+                    - if not equal, get all IDs from Marvel, cache all IDs, return
+          - https://github.com/dunglp/marvel-service/blob/main/pkg/marvel/cache/diagrams/Marvel_Svc_Caching_.png
+        - Strategy 2 :
+          - look for cache 
+            - if not found, get all IDs from Marvel, cache : 
+              - Cache.IDs = Marvel.IDs
+              - Cache.since = time.Now
+              - return
+            - if found :
+              - get since = Cache.since
+              - query for all IDs that has been modified from _since_ timestamp (Assumption : All newly added character is included)
+              - add all new IDs to cache, Cache.since = time.Now
+              - return
+          - https://github.com/dunglp/marvel-service/blob/main/pkg/marvel/cache/diagrams/Marvel_Svc_Caching_2.png
     
 -   **http://localhost:8080/characters/{characterId} :**
     -   Get Marvel character details 
