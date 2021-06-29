@@ -31,7 +31,7 @@ Technical Assessment
                     - if equal, return IDs from Cache
                     - if not equal, get all IDs from Marvel, cache all IDs, return
           - https://github.com/dunglp/marvel-service/blob/main/pkg/marvel/cache/diagrams/Marvel_Svc_Caching_.png
-        - Strategy 2 :
+        - Strategy 2 : (implemented in this assessment)
           - look for cache 
             - if not found, get all IDs from Marvel, cache : 
               - Cache.IDs = Marvel.IDs
