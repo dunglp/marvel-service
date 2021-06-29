@@ -7,6 +7,11 @@ Technical Assessment
 
 ## Prerequisites : 
 -   Docker installed
+-   install _homebrew_ :
+    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    - Paste that in a macOS Terminal or Linux shell prompt
+-   install _make_ : 
+    - can install with homebrew : brew install make
 -   localhost:8080, localhost:3003 is not in used
 
 ## How to run ?
